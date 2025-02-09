@@ -1,7 +1,7 @@
 # AI-Based Anomaly Detection in Industrial Equipment Sensors
 
 ## Overview
-This project applies **machine learning** to detect **anomalies in industrial equipment sensor data**, preventing failures and optimizing maintenance schedules. Using **NASA’s Turbofan Engine Degradation Dataset**, we train models to identify early failure risks.
+This project applies **machine learning** to detect **anomalies in industrial equipment sensor data**, preventing failures and optimizing maintenance schedules. Using **NASA’s Turbofan Engine Degradation Dataset**, models are trained to identify early failure risks.
 
 ## Features
 ✔ **Preprocessing & Feature Engineering** – Cleaning and transforming sensor data.  
